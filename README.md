@@ -2,11 +2,11 @@
 A simple weather website that allows users to check the current weather conditions for a specific location.
 
 # Technologies used -
--HTML
--CSS
--Javascript
--OpenWeatherMap API
--API link - https://openweathermap.org/api
+- HTML
+- CSS
+- Javascript
+- OpenWeatherMap API
+- API link - https://openweathermap.org/api
 
 # Prerequisites
 
